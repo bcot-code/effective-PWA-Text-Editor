@@ -77,9 +77,8 @@ Following the usage guide will ensure you are able to use this project successfu
 In your project folder, create a new file named `service-worker.js`. This file is used to cache your site’s local assets. The code for this service worker is provided below.
 
 ```
+
 ![service-worker.js](./images/service-worker.png)
-
-
 
 **Application's IndexedDB storage:**
 
@@ -88,6 +87,15 @@ In this section we will add functionalities to our application’s indexedDB sto
 ![INDEXDB_storage](./images/indexDB_storage.png)
 
 #### Contributing to this Project
+
 This in contribute to UT Bootcamp 2024-2025
 
-#### Reference 
+#### Reference
+
+- https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide
+- https://github.com/coding-boot-camp/cautious-meme
+
+#### FAQs
+
+Any further questions please don't hesitate to ask or reach out
+to me via github at - [@bcot-code](https://github.com/bcot-code/effective-PWA-Text-Editor)
