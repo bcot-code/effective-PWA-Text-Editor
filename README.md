@@ -1,5 +1,9 @@
 # Effective-PWA-Text-Editor
 
+## Description
+
+To make this a Progressive Web App, you can add a service worker to cache the application's assets for offline access. You'll also need to ensure the application meets other PWA criteria like responsive design, HTTPS usage, and having a manifest file. Additionally, you can enhance the user experience by implementing features like push notifications and background sync.
+
 ## Table of Content
 
 1. [Introduction](#introduction)
